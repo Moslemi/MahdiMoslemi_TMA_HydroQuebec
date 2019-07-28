@@ -1,1 +1,1 @@
-THis is a result of my master thesis, which have been done as a project with Hydro Quebec.
+THis is a part of a code which I have done during my master thesis, which has been done as a project with Hydro Quebec.
