@@ -1,3 +1,6 @@
+__author__ = "MAHDI MOSLEMI"
+__email__ = "moslemi.mahdi@gmail.com"
+
 import numpy as np
 import csv
 def interpol(x1,y1,h1,x2,y2,h2,x3,y3,h3,x,y):
