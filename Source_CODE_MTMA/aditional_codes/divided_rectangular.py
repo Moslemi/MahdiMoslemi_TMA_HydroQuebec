@@ -1,3 +1,6 @@
+__author__ = "MAHDI MOSLEMI"
+__email__ = "moslemi.mahdi@gmail.com"
+
 from pandas import DataFrame, read_csv
 import pandas as pd
 
