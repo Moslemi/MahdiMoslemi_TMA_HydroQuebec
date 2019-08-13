@@ -1,3 +1,6 @@
+__author__ = "MAHDI MOSLEMI"
+__email__ = "moslemi.mahdi@gmail.com"
+
 import numpy as np
 import csv
 from operator import itemgetter
