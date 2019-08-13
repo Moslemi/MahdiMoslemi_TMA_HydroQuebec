@@ -1,3 +1,5 @@
+__author__ = "MAHDI MOSLEMI"
+__email__ = "moslemi.mahdi@gmail.com"
 
 import csv
 from sum_points import sum_points
