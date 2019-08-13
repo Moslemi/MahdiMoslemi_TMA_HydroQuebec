@@ -1,3 +1,6 @@
+__author__ = "MAHDI MOSLEMI"
+__email__ = "moslemi.mahdi@gmail.com"
+
 import csv
 
 
