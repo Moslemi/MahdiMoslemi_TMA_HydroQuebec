@@ -1,3 +1,7 @@
+__author__ = "MAHDI MOSLEMI"
+__email__ = "moslemi.mahdi@gmail.com"
+
+
 def inside(x,y,x1,y1,x2,y2,x3,y3):
     import numpy as np
     from numpy.linalg import inv
