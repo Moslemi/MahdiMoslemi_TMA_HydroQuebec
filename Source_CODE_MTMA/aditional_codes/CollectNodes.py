@@ -1,3 +1,6 @@
+__author__ = "MAHDI MOSLEMI"
+__email__ = "moslemi.mahdi@gmail.com"
+
 from tkinter import *
 from tkinter.filedialog import askopenfile, asksaveasfile, askopenfilename, askopenfilenames
 from tkinter import filedialog
