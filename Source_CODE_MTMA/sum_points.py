@@ -1,4 +1,5 @@
-
+__author__ = "MAHDI MOSLEMI"
+__email__ = "moslemi.mahdi@gmail.com"
 
 def sum_points(all_points , GEO_t3s):
 
