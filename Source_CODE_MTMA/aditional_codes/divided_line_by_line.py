@@ -1,3 +1,5 @@
+__author__ = "MAHDI MOSLEMI"
+__email__ = "moslemi.mahdi@gmail.com"
 
 with open("divided_line_by_line.txt","r") as f:
     for x,line in enumerate(f):
